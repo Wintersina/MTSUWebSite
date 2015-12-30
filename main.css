@@ -1,8 +1,13 @@
 body {
-	margin: 0;
-	background: #777;
+	background-image: url("https://raw.githubusercontent.com/Wintersina/MTSUWebSite/master/Pictures/dD88anO.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 	font-family: arial;
 	padding: 0 0 0 0;
+	background-color: gray;
+	color: white;
+
 }
 body p{
 	font-size: 14px;
