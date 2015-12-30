@@ -1,11 +1,12 @@
 body {
-	background-image: url("https://raw.githubusercontent.com/Wintersina/MTSUWebSite/master/Pictures/dD88anO.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	font-family: arial;
 	padding: 0 0 0 0;
 	background-color: gray;
 	color: white;
+	background-image: url("https://raw.githubusercontent.com/Wintersina/MTSUWebSite/master/Pictures/dD88anO.jpg");
+
 
 }
 body p{
