@@ -1,3 +1,56 @@
 body {
-	background: #999
+	margin: 0;
+	background: #777;
+	font-family: arial;
+	padding: 0 0 0 0;
+}
+body p{
+	font-size: 14px;
+}
+
+header{
+	margin: 0;
+	padding: 5px 15px 0 0;
+}
+header h1{
+	display: inline;
+}
+header nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 0px 15px 0px 15px;
+	background: white;
+
+}
+
+nav h1{
+	color:white;
+	margin: 0px;
+}
+nav h3{
+	color:gray;
+	margin: 0;
+}
+nav ul{
+	display: inline;
+	padding: 0 0 0 10px;
+}
+a{
+	color:blue;
+	margin: 0;
+
+}
+.col {
+	float: left;
+	width: 33% 
+}
+
+.contactinfo ul li{
+	list-style-type: none;
+	font-size: 14px;
+}
+footer{
+	clear:both;
+	font-family: arial;
+	font-size: 11px;
 }
