@@ -10,39 +10,42 @@ body p{
 
 header{
 	margin: 0;
-	padding: 5px 15px 0 0;
+	padding: 5px 10px 10px 0;
+	background: gray;
+
 }
-header h1{
+header h2{
 	display: inline;
+	background: gray;
+
 }
 header nav ul li{
 	list-style-type: none;
 	display: inline-block;
-	padding: 0px 15px 0px 15px;
-	background: white;
+	padding: 5px 15px 0px 15px;
+	background: gray;
+
 
 }
 
-nav h1{
+nav h2{
 	color:white;
-	margin: 0px;
-}
-nav h3{
-	color:gray;
-	margin: 0;
-}
+	padding: 5px;
+	}
+
 nav ul{
 	display: inline;
 	padding: 0 0 0 10px;
+
 }
 a{
-	color:blue;
+	color:white;
 	margin: 0;
 
 }
 .col {
+	width: 23%;
 	float: left;
-	width: 25% 
 }
 
 .contactinfo ul li{
