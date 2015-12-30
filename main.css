@@ -2,7 +2,6 @@ body {
 	background-image: url("https://raw.githubusercontent.com/Wintersina/MTSUWebSite/master/Pictures/dD88anO.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center center;
 	font-family: arial;
 	padding: 0 0 0 0;
 	background-color: gray;
@@ -17,6 +16,7 @@ header{
 	margin: 0;
 	padding: 5px 10px 10px 0;
 	background: gray;
+	position: center;
 
 }
 header h2{
@@ -36,21 +36,27 @@ header nav ul li{
 nav h2{
 	color:white;
 	padding: 5px;
+	font-size: 20px;
 	}
 
 nav ul{
 	display: inline;
 	padding: 0 0 0 10px;
+	font-family: arial;
+
 
 }
 a{
 	color:white;
 	margin: 0;
+	font-size: 15px;
+	font-family: arial;
 
 }
 .col {
-	width: 23%;
+	width: 20%;
 	float: left;
+	padding: 16px;
 }
 
 .contactinfo ul li{
@@ -58,7 +64,11 @@ a{
 	font-size: 14px;
 }
 footer{
+	background-color: black;
+	padding:0 auto;
 	clear:both;
 	font-family: arial;
 	font-size: 11px;
+	position: bottom;
+	margin: 0;
 }
