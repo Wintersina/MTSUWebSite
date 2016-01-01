@@ -5,7 +5,7 @@ body {
 	padding: 0 0 0 0;
 	background-color: gray;
 	color: white;
-	background-image: url("https://raw.githubusercontent.com/Wintersina/MTSUWebSite/master/Pictures/dD88anO.jpg");
+background-color: #161430
 
 
 }
@@ -30,6 +30,8 @@ header nav ul li{
 	display: inline-block;
 	padding: 5px 15px 0px 15px;
 	background: gray;
+	font-family: arial;
+
 
 
 }
@@ -38,6 +40,8 @@ nav h2{
 	color:white;
 	padding: 5px;
 	font-size: 20px;
+	font-family: arial;
+
 	}
 
 nav ul{
@@ -58,11 +62,17 @@ a{
 	width: 20%;
 	float: left;
 	padding: 16px;
+	font-family: arial;
+
+
 }
 
+}
 .contactinfo ul li{
 	list-style-type: none;
 	font-size: 14px;
+	font-family: arial;
+
 }
 footer{
 	background-color: black;
